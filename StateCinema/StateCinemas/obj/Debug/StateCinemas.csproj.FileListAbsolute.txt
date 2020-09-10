@@ -1,0 +1,6 @@
+C:\Users\engmu\source\repos\StateCinemas\bin\Debug\StateCinemas.dll
+C:\Users\engmu\source\repos\StateCinemas\bin\Debug\StateCinemas.pdb
+C:\Users\engmu\source\repos\StateCinemas\obj\Debug\StateCinemas.csproj.CoreCompileInputs.cache
+C:\Users\engmu\source\repos\StateCinemas\obj\Debug\StateCinemas.dll
+C:\Users\engmu\source\repos\StateCinemas\obj\Debug\StateCinemas.pdb
+C:\Users\engmu\source\repos\StateCinemas\obj\Debug\StateCinemas.csprojAssemblyReference.cache
